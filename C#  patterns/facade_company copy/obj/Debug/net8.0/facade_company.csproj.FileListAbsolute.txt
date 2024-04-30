@@ -1,0 +1,14 @@
+/Users/speakland/RiderProjects/facade_company/facade_company/bin/Debug/net8.0/facade_company
+/Users/speakland/RiderProjects/facade_company/facade_company/bin/Debug/net8.0/facade_company.deps.json
+/Users/speakland/RiderProjects/facade_company/facade_company/bin/Debug/net8.0/facade_company.runtimeconfig.json
+/Users/speakland/RiderProjects/facade_company/facade_company/bin/Debug/net8.0/facade_company.dll
+/Users/speakland/RiderProjects/facade_company/facade_company/bin/Debug/net8.0/facade_company.pdb
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.GeneratedMSBuildEditorConfig.editorconfig
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.AssemblyInfoInputs.cache
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.AssemblyInfo.cs
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.csproj.CoreCompileInputs.cache
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.dll
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/refint/facade_company.dll
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.pdb
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/facade_company.genruntimeconfig.cache
+/Users/speakland/RiderProjects/facade_company/facade_company/obj/Debug/net8.0/ref/facade_company.dll
